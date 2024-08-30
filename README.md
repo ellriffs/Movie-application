@@ -14,4 +14,11 @@ It will show you movies that are currently trending and allow you to:
 To run the dev env:
 - run the command `npm run dev`
 
-![The Movies](public/video/The-movies.mov)
+####Landing Header
+![Screenshot 2024-08-30 at 17 27 33](https://github.com/user-attachments/assets/9ff0ba2b-ce05-4728-b547-1b2ddba18165)
+
+####Top Movie List
+![Screenshot 2024-08-30 at 17 27 44](https://github.com/user-attachments/assets/e78faa12-c28a-42d2-bd96-e510ab2c81f3)
+
+####Top Show List
+![Screenshot 2024-08-30 at 17 27 54](https://github.com/user-attachments/assets/c6e23b52-57ca-42b0-a0af-5245c2fe43aa)
